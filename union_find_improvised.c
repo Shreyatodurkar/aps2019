@@ -1,18 +1,3 @@
-Skip to content
- 
-Pull requests
-Issues
-Marketplace
-Explore
- @Shreyatodurkar Sign out
-6
-3 18 prakashbh/day-today-codes
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-day-today-codes/12-union-find-improvised.c
-16be5f5  on Jan 30, 2018
-@prakashbh prakashbh Create 12-union-find-improvised.c
-     
-64 lines (53 sloc)  849 Bytes
 #include<stdio.h>
 #define n 6
 
